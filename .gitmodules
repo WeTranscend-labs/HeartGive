@@ -1,0 +1,6 @@
+[submodule "FE-HeartGive-"]
+	path = FE-HeartGive-
+	url = https://github.com/WeTranscend-labs/FE-HeartGive-.git
+[submodule "SC-HeartGive"]
+	path = SC-HeartGive
+	url = https://github.com/WeTranscend-labs/SC-HeartGive.git
